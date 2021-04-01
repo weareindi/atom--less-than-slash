@@ -1,0 +1,25 @@
+{
+    "name": "atom-less-than-slash",
+    "main": "./lib/atom-less-than-slash",
+    "version": "0.0.1",
+    "description": "Auto-close your markup by typing: </",
+    "keywords": [
+        "atom", "autocomplete", "closing", "tag", "html", "markup"
+    ],
+    "repository": {
+      "url": "https://github.com/weareindi/atom--less-than-slash",
+      "type": "git"
+    },
+    "author": {
+        "name": "Laurence Archer",
+        "email": "laurence@weareindi.co.uk",
+        "url": "https://weareindi.co.uk"
+    },
+    "license": "MIT",
+    "engines": {
+        "atom": "<1.55.0"
+    },
+    "dependencies": {
+        "unclosed-markup": "^1.1.0"
+    }
+}
