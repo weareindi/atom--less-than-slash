@@ -1,0 +1,9 @@
+{
+    "batchSize": {
+        "title": "Batch Size",
+        "description": "How many rows do we want to process at a time until we find the opening tag?",
+        "type": "number",
+        "default": "1000",
+        "order": 1
+    }
+}
