@@ -1,14 +1,19 @@
 {
-    "name": "atom-less-than-slash",
-    "main": "./lib/atom-less-than-slash",
-    "version": "0.0.2",
+    "name": "atom--less-than-slash",
+    "main": "./lib/atom--less-than-slash",
+    "version": "0.0.3",
     "description": "Auto-close your markup by typing: </",
     "keywords": [
-        "atom", "autocomplete", "closing", "tag", "html", "markup"
+        "atom",
+        "autocomplete",
+        "closing",
+        "tag",
+        "html",
+        "markup"
     ],
     "repository": {
-      "url": "https://github.com/weareindi/atom--less-than-slash",
-      "type": "git"
+        "url": "https://github.com/weareindi/atom--less-than-slash",
+        "type": "git"
     },
     "author": {
         "name": "Laurence Archer",
@@ -20,6 +25,6 @@
         "atom": "<1.55.0"
     },
     "dependencies": {
-        "unclosed-markup": "^1.1.0"
+        "unclosed-markup": "1.1.0"
     }
 }
