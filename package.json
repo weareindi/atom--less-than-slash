@@ -1,7 +1,7 @@
 {
     "name": "atom--less-than-slash",
     "main": "./lib/atom--less-than-slash",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Auto-close your markup by typing: </",
     "keywords": [
         "atom",
