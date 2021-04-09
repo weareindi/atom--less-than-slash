@@ -15,3 +15,6 @@
 
 ## 0.0.5
 * Allow for multiple cursors
+
+## 0.0.6
+* Add undo checkpoint so an undo undoes all cursors rather than one by one
